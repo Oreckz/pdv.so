@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Who Am I?"
+date:   2015-03-08 17:02 
+categories: general
+---
+
+It's not exactly difficult to find out who someone on the internet is these days, in fact its fairly trivial. So I'm not going to go into anything overly personal, but I needed to give this blog a purpose and hopefully with that purpose, content. 
+
+Given that I am Linux engineer by trade this blog is likely going to contain a lot of material relating to that. I'm lucky enough to have found a job where I wake up in the morning and don't dread going into work. Is that to say that I never get frustrated? No, but it gives me scope to remember that frustration is fleeting and that I am able to work with something that I love. 
+
+Other than Linux my other passion in life is music. So you can expect a lot of music here as well, my tastes tend to vary quite a lot and range from ambient electronic to death metal. 
+
+Overall the main goal of this blog was so I could start writing again, something I used to do professionally but burned out on. We'll see how it goes, all one of you reading this. 
