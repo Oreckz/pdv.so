@@ -6,9 +6,10 @@ categories: general
 ---
 
 RHEL/CentOS
-
-httpd -S 2>&1|grep .port 443 name.|grep .v `hostname`| awk {'print $4'}
-
+```bash
+httpd -S 2>&1|grep "port 443 name"|grep -v `hostname`| awk {'print $4'}
+```
 Debian/Ubuntu
-
+```bash
 apache2ctl -S 2>&1|grep "port 443 name"|grep -v `hostname`| awk {'print $4'}
+```
