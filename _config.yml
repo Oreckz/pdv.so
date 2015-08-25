@@ -1,6 +1,6 @@
 title:            pdv.so
 description:      Probably quite boring.
-url:              pdv.so
+url:              https://pdv.so
 signoff:          Oreckz
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
@@ -8,7 +8,7 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
   - name:         About
-    url:          http://pdv.so/general/2015/03/08/who-am-i/
+    url:          https://pdv.so/general/2015/03/08/who-am-i/
   - name:         Twitter
     url:          https://www.twitter.com/oreckstatler
     external:     true

@@ -8,4 +8,4 @@ categories: general
 In hosting one of the most common causes of downtime comes from poorly configured crawlers effectively DoS'ing sites as they collect information for their respective
 search engines. For instance, a certain crawler of Russian origin that does exactly this somewhat frequently. Anyway, you can run the below to find the bastards:
 
-
+`` grep -i 'bot\|spider\|crawl' /var/logs/nginx/access_log | awk '{print $12}' | sort | uniq -c``
